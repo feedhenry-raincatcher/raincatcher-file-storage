@@ -1,0 +1,40 @@
+{
+  "name": "fh-wfm-file-storage",
+  "version": "0.2.0",
+  "description": "A WFM module providing file storage support",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feedhenry-raincatcher/raincatcher-file-storage.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "wfm",
+    "file"
+  ],
+  "author": "feedhenry-raincatcher@redhat.com",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.6.3",
+    "gridfs-stream": "^1.1.1",
+    "lodash": "4.7.0",
+    "mongodb": "^2.2.25",
+    "fh-wfm-mediator": "0.3.2",
+    "q": "1.4.1",
+    "s3": "^4.4.0"
+  },
+  "devDependencies": {
+    "fh-wfm-mediator": "0.3.1",
+    "grunt": "0.4.5",
+    "grunt-eslint": "18.1.0",
+    "grunt-mochify": "^0.3.0",
+    "load-grunt-tasks": "^3.5.2",
+    "mochify": "^2.18.1",
+    "proxyquireify": "^3.2.1",
+    "sinon": "^1.17.6",
+    "sinon-as-promised": "^4.0.2",
+    "chai": "^3.5.0",
+    "proxyquire": "^1.7.10"
+  }
+}
