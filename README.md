@@ -2,6 +2,8 @@
 
 A module for FeedHenry RainCatcher that manages file storage
 
+**Depreciated** - Storage support was moved to fh-wfm-file module.
+
 ## Supported storage engines
 
 ### AWS S3 storage
