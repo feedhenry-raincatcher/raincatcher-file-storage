@@ -1,8 +1,8 @@
 # FeedHenry RainCatcher file storage [![Build Status](https://travis-ci.org/feedhenry-raincatcher/raincatcher-file-storage.png)](https://travis-ci.org/feedhenry-raincatcher/raincatcher-file-storage)
 
-A module for FeedHenry RainCatcher that manages file storage
+**No longer supported** - Storage support was moved to fh-wfm-file module. If you still use this module please refer to file module documentation to migrate.
 
-**Depreciated** - Storage support was moved to fh-wfm-file module.
+A module for FeedHenry RainCatcher that manages file storage
 
 ## Supported storage engines
 
